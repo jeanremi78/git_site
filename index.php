@@ -6,5 +6,10 @@
 </head>
 <body>
 	<h1>Nouveau titre</h1>
+	<h2>hello</h2>
+
+	<section>
+		<p>git</p>
+	</section>
 </body>
 </html>
